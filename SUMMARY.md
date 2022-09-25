@@ -50,6 +50,10 @@
 * [Governance Responsibilities](governance/governance-responsibilities.md)
 * [Multisig](governance/multisig.md)
 
+## Troubleshooting
+
+* [Page 1](troubleshooting/page-1.md)
+
 ## Developers
 
 * [Contract Addresses](developers/contract-addresses.md)
@@ -64,6 +68,7 @@
 * [FixedForex.fi](https://fixedforex.fi/)
 * [Telegram](https://t.me/keep3r\_official)
 * [Discord](https://discord.gg/wxS8HTMW)
+* [Twitter](https://twitter.com/thekeep3r)
 * [Medium](https://medium.com/keep3r-network)
 * [Fixed Forex Forum](https://gov.yearn.finance/c/projects/fixed-forex/26)
 * [Keep3r Forum](https://gov.yearn.finance/c/projects/keep3r/20)
