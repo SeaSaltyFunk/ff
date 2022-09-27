@@ -59,4 +59,4 @@ Although security audits have been completed it's possible that a vulnerability 
 
 Fixed Forex also utilizes the lending contracts of the Iron Bank protocol, whilst users may also interact with Curve, Convex, Yearn & Synthetix smart contract protocols in making use of Fixed Forex assets. Users should be aware of exposure to further risk in these areas.
 
-Fixed Forex governance is managed by the Keep3r Multisig, who's role is further explained in the [Goveranance section](broken-reference).
+Fixed Forex governance is managed by the Keep3r Multisig, whose role is further explained in the [Governance section](broken-reference). Users should be aware of what rights the Multisig hold & what additional risk exposure this presents.
