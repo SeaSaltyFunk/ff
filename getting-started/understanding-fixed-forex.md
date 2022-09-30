@@ -19,7 +19,7 @@ Fixed Forex assets are [ERC-20 tokens ](https://ethereum.org/en/developers/docs/
 * $ibJPY - Japanese Yen
 * $ibKRW - Korean Won
 
-Fixed Forex stablecoins are over-collateralized, meaning that each stablecoin issued must be backed by collateral maintained at a ratio greater than the fiat value of the stablecoins borrowed. Fixed Forex utilizes the [Iron Bank protocol](https://app.ib.xyz/markets/Ethereum) for the issue & minting of new Fixed Forex assets.
+Fixed Forex stablecoins are over-collateralized, meaning that each stablecoin issued must be backed by collateral maintained at a ratio greater than the fiat value of the stablecoins borrowed (i.e. more than €1 worth of collateral must be provided to borrow 1 $ibEUR). Fixed Forex utilizes the [Iron Bank protocol](https://app.ib.xyz/markets/Ethereum) for the issue & minting of new Fixed Forex assets.
 
 ## Where's the Whitepaper?
 

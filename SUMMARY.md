@@ -11,8 +11,8 @@
 ## $KP3R Token
 
 * [Understanding $KP3R](usdkp3r-token/understanding-usdkp3r.md)
-* [$KP3R FAQ](usdkp3r-token/usdkp3r-faq.md)
 * [$KP3R Tokenomics](usdkp3r-token/usdkp3r-tokenomics.md)
+* [$KP3R FAQ](usdkp3r-token/usdkp3r-faq.md)
 
 ## Minting
 
@@ -61,7 +61,7 @@
 ## Appendix
 
 * [Audits](appendix/audits.md)
-* [Security](appendix/security.md)
+* [Minting & Issuance Security](appendix/minting-and-issuance-security.md)
 
 ## Links
 
