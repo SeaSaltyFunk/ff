@@ -8,9 +8,13 @@ description: >-
 
 ## Welcome to Keep3r's Fixed Forex!
 
+<figure><img src=".gitbook/assets/Fixed Forex.PNG" alt=""><figcaption></figcaption></figure>
+
 Fixed Forex is the protocol name for the forex issuance solution by Keep3r.&#x20;
 
-Fixed Forex allows users to Supply Collateral to Borrow Iron Bank Assets (ib Assets). Fixed Forex provides an alternative to USD-denominated stablecoins. It allows liquidity providers exposure to currencies such as EUR, CHF, GBP, AUD, JPY, and KRW.
+Fixed Forex provides an alternative to USD-denominated stablecoins. It allows liquidity providers exposure to currencies such as EUR, CHF, GBP, AUD, JPY, and KRW.
+
+Fixed Forex allows users to Supply Collateral to Borrow ib Assets through partnership with Iron Bank
 
 These resources aim to help new and existing users to become familiar with the Fixed Forex protocol, its use cases, and the $KP3R token.
 
@@ -41,4 +45,4 @@ Twitter: [https://twitter.com/thekeep3r](https://twitter.com/thekeep3r)
 
 Medium: [https://medium.com/keep3r-network](https://medium.com/keep3r-network)
 
-Github: [https://github.com/keep3r-network/](https://github.com/keep3r-network/ff)
+GitHub: [https://github.com/keep3r-network/](https://github.com/keep3r-network/ff)
