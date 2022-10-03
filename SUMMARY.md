@@ -56,7 +56,7 @@
 
 ## Developers
 
-* [Key Contract Addresses](developers/key-contract-addresses.md)
+* [Key Contract Addresses](developers/contract-addresses.md)
 * [Related Contract Addresses](developers/related-contract-addresses.md)
 * [Deprecated Contracts](developers/deprecated-contracts.md)
 
