@@ -22,7 +22,7 @@ These resources aim to help new and existing users to become familiar with the F
 
 * [Getting Started](broken-reference)
 * [$KP3R Token](broken-reference)
-* [Minting ib Assets](broken-reference)
+* [Minting & Issuance](broken-reference)
 * [Swap Assets](broken-reference)
 * [Providing Liquidity](broken-reference)
 * [Liquidity Rewards & Options Liquidity Mining](broken-reference)
@@ -30,6 +30,8 @@ These resources aim to help new and existing users to become familiar with the F
 * [Vesting](broken-reference)
 * [Governance](broken-reference)
 * [Troubleshooting](https://app.gitbook.com/s/dcazEWFTJX0SB3s4mSJg/\~/changes/4D6cg2JxzOs1u6drHAVq/troubleshooting)
+* [Developers](broken-reference)
+* [Security & Risk Appendix](https://app.gitbook.com/o/gYdgh8RgGKXRgpdzZ92w/s/dcazEWFTJX0SB3s4mSJg/\~/changes/hOewjqgeoSgzykeFBkOt/security-and-risk-appendix)
 
 ## Useful Links
 

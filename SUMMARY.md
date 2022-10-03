@@ -14,9 +14,10 @@
 * [$KP3R Tokenomics](usdkp3r-token/usdkp3r-tokenomics.md)
 * [$KP3R FAQ](usdkp3r-token/usdkp3r-faq.md)
 
-## Minting
+## Minting & Issuance
 
-* [How to Mint ib Stables](minting/how-to-mint-ib-stables.md)
+* [ibXXX Assets Explained](minting-and-issuance/ibxxx-assets-explained.md)
+* [How to Mint ibXXX Assets](minting-and-issuance/how-to-mint-ibxxx-assets.md)
 
 ## Swap Assets
 
@@ -60,10 +61,10 @@
 * [Related Contract Addresses](developers/related-contract-addresses.md)
 * [Deprecated Contracts](developers/deprecated-contracts.md)
 
-## Appendix
+## Security & Risk Appendix
 
-* [Audits](appendix/audits.md)
-* [Minting & Issuance Security](appendix/minting-and-issuance-security.md)
+* [Audits](security-and-risk-appendix/audits.md)
+* [Minting & Issuance Security](security-and-risk-appendix/minting-and-issuance-security.md)
 
 ## Links
 
