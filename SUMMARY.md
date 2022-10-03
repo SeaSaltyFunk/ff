@@ -53,7 +53,7 @@
 
 ## Troubleshooting
 
-* [Common Issues & Resolutions](troubleshooting/common-issues-and-resolutions.md)
+* [Common Issues & Resolutions](troubleshooting/page-1.md)
 
 ## Developers
 
