@@ -16,6 +16,8 @@ Most users should experience Fixed Forex without issue, however we understand it
 
 ## Issues Redeeming $rKP3R or Executing Options ($oKP3R)
 
+### Option expired
+
 ### Unable to execute Options when over 50 $rKP3R
 
 ### Unable to execute Option although Strike value in wallet

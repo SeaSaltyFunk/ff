@@ -17,7 +17,7 @@
 ## Minting & Issuance
 
 * [ibXXX Assets Explained](minting-and-issuance/ibxxx-assets-explained.md)
-* [How to Mint ibXXX Assets](minting-and-issuance/how-to-mint-ibxxx-assets.md)
+* [How to Mint ibXXX Assets](minting/how-to-mint-ib-stables.md)
 
 ## Swap Assets
 
@@ -63,8 +63,8 @@
 
 ## Security & Risk Appendix
 
-* [Audits](security-and-risk-appendix/audits.md)
-* [Minting & Issuance Security](security-and-risk-appendix/minting-and-issuance-security.md)
+* [Audits](appendix/audits.md)
+* [Minting & Issuance Security](appendix/minting-and-issuance-security.md)
 
 ## Links
 

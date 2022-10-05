@@ -13,3 +13,7 @@ New $KP3R is constantly minted as part of the tokenomics design. Please refer to
 ## What is the maximum supply?
 
 $KP3R has no hard cap on maximum supply, similar to Ethereum, as such total supply will steadily increase over time
+
+## What are the different token versions ($rKP3R, $oKP3R, $vKP3R)?
+
+A full description of the different token version types is available [here](understanding-usdkp3r.md#token-versions-explained)

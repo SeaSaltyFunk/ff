@@ -18,7 +18,7 @@
 | ib Controller    | Fixed Forex Iron Bank Controller Contract | [0xA511dA90c2f4c557456cD84CD003A1F74C202d80](https://etherscan.io/address/0xA511dA90c2f4c557456cD84CD003A1F74C202d80) |
 | ib Burner        | Fixed Forex Profit Normalizer Contract    | [0x4BCD0d9Bdc8f28664987B99cc73DC368C7DEe1BD](https://etherscan.io/address/0x4BCD0d9Bdc8f28664987B99cc73DC368C7DEe1BD) |
 | Fee Distribution | Fixed Forex Fee Distribution Contract     | [0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA](https://etherscan.io/address/0xB9d18ab94cf61bB2Bcebe6aC8Ba8c19fF0CDB0cA) |
-| Gauge Proxy      | $rKP3R Vote Gauge Allocation Contract     | [0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b](https://etherscan.io/address/0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b) |
+| Gauge Proxy V2   | $rKP3R Vote Gauge Allocation Contract     | [0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b](https://etherscan.io/address/0x81a8CAb6bb568fC94bCa70C9AdbFCF05592dEd7b) |
 
 ## Fixed Forex AMM Contracts
 

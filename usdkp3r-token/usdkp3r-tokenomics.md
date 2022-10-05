@@ -6,7 +6,7 @@ $KP3R has an inflationary supply, creating new token emissions through isolated 
 
 1. The creation of new $KP3R distributed as Options Liquidity Mining Rewards for incentivizing liquidity of Fixed Forex Assets
 2. The creation of new $KP3R distributed to vested token holders as Options Liquidity Mining Rewards
-3. &#x20;The creation of new $KP3R via the Keep3r Network credit minting process
+3. The creation of new $KP3R via the Keep3r Network credit minting process
 
 Each isolated liquidity mint has a weekly cap target, which is controlled & reviewed through governance power by a Multisig. Currently, these are;
 
@@ -37,7 +37,7 @@ $$
 
 ### Max Supply
 
-$KP3R has no hard cap on maximum supply, similar to Ethereum
+$KP3R has no hard cap on maximum supply, similar to Ethereum. Total token supply will increase as a product of time. Vested token holders are compensated for dilution through the distribution of fees from OLM revenues & through the issue of $rKP3R rewards
 
 ### Total Supply
 
@@ -47,7 +47,7 @@ Total supply is expected to grow over time due to Monetary Policy of the protoco
 
 ## Distribution at Launch
 
-$KP3R was distributed at launch as a "fair launch" meaning all participants had the same ruleset with no allocations to team, influencers, or seed rounds, etc. included. Tokens were distributed to participants based on use of the Keep3r and Fixed Forex protocols
+$KP3R was distributed at launch as a "fair launch" meaning all participants had the same ruleset with no allocations to team, influencers, or seed rounds, etc. Tokens were distributed to participants based on use of the Keep3r and Fixed Forex protocols
 
 ## Value Capture
 

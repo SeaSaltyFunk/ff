@@ -16,7 +16,7 @@ Price Oracles are maintained by Iron Bank, more detail found [here](https://docs
 
 ## ibXXX
 
-ibXXX (Fixed Forex assets, example; ibCHF, ibEUR, ibAUD) are ERC20 tokens that are pegged to their corresponding forex pair name. They can only be borrowed via Iron Bank by supplying collateral in one of Iron Bank's accepted collateral options, list available [here](https://docs.ib.xyz/v/ethereum/lending-market/collateral-factor).
+ibXXX (Fixed Forex assets, example; ibCHF, ibEUR, ibAUD) are ERC-20 tokens that are pegged to their corresponding forex pair name. They can only be borrowed via Iron Bank by supplying collateral in one of Iron Bank's accepted collateral options, list available [here](https://docs.ib.xyz/v/ethereum/lending-market/collateral-factor).
 
 This means that each ibXXX asset is backed by a $ amount equal to its fiat value. If 1 ibCHF is borrowed, it had to be backed by at least 1 CHF of value (whether that asset be in the form of BTC, CRV, ETH, etc).
 
