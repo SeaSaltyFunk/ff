@@ -21,9 +21,38 @@ Full details of the split in responsibilities between Fixed Forex & Iron Bank ca
 
 ## How ibXXX Assets are issued to users
 
-ibXXX assets can only be borrowed where&#x20;
+ibXXX Assets borrowing is restricted to the following conditions;
+
+* ibXXX Assets can **ONLY** be borrowed from Iron Bank
+* ibXXX Assets can **ONLY** be borrowed where borrower has provided an accepted form of collateral
+
+ibXXX Assets **CANNOT** be used as collateral to borrow any other assets within Iron Bank markets
 
 ## ibXXX Asset Value
 
-Something
+ibXXX Asset valuation within Iron Bank markets is based on fiat price Oracle Feeds.
+
+This means that Iron Bank always values each borrow as equal to the fiat price feed. For example, 100 $ibEUR borrowed will be valued using a EUR/USD Price Oracle
+
+Since each ibXXX Asset borrowed is backed by collateral, and overcollateralization is a requirement of borrowing, then each ibXXX Asset is backed by a collateral of a higher value than the outstanding borrowed amounts. Where variable valuation of collateral is a factor, suppliers of collateral are at risk of liquidation
+
+### Reserve Mechanisms
+
+Iron Bank maintains a Reserve Ration of 10% on all borrows of ibXXX Assets, which is funded by a portion of interest paid by the borrower&#x20;
+
+Reserve Factor information is available within the Iron Bank documentation. Actual reserve live data can be viewed at each Iron Bank ibXXX Asset information page listed under the "Reserve" section here;
+
+* [$ibEUR](https://app.ib.xyz/markets/Ethereum/0x00e5c0774A5F065c285068170b20393925C84BF3)
+* [$ibCHF](https://app.ib.xyz/markets/Ethereum/0x1b3E95E8ECF7A7caB6c4De1b344F94865aBD12d5)
+* [$ibGBP](https://app.ib.xyz/markets/Ethereum/0xecaB2C76f1A8359A06fAB5fA0CEea51280A97eCF)
+* [$ibAUD](https://app.ib.xyz/markets/Ethereum/0x86BBD9ac8B9B44C95FFc6BAAe58E25033B7548AA)
+* [$ibJPY](https://app.ib.xyz/markets/Ethereum/0x215F34af6557A6598DbdA9aa11cc556F5AE264B1)
+* [$ibKRW](https://app.ib.xyz/markets/Ethereum/0x3c9f5385c288cE438Ed55620938A4B967c080101)
+
+### Impact for users acquiring ibXXX assets to repay outstanding borrows
+
+This means that where borrowers are able to acquire ibXXX assets via a DEX then the following scenarios apply;
+
+* ibXXX acquired at _**less than**_ the value of the fiat - then the borrower will be able to pay back their outstanding borrow at a discount
+* ibXXX acquired at _**more than**_ the value of fiat - then the borrower will pay back their outstanding borrow at a premium
 
