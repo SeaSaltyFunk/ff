@@ -4,7 +4,9 @@ description: A short guide to understand the basics of Fixed Forex
 
 # Understanding Fixed Forex
 
-Getting started with Fixed Forex can be confusing, there is a lot to take in and understand. This small guide is intended for beginners with a base understanding of non-USD currencies (Forex), DeFi, and Crypto. It tries to answer recurring questions about how to get started with Fixed Forex and how it works or makes money for vested $KP3R token holders or ib Asset.
+Getting started with Fixed Forex can be confusing, there is a lot to take in and understand. This small guide is intended for beginners with a base understanding of non-USD currencies (Forex), DeFi, and Crypto.&#x20;
+
+It tries to answer recurring questions about how to get started with Fixed Forex, how Fixed Forex works, how vested $KP3R token holders or Fixed Forex asset holders can utilize their assets.
 
 ## What is Fixed Forex?
 
