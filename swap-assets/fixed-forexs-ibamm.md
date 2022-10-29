@@ -1,2 +1,0 @@
-# Fixed Forex's ibAMM
-
