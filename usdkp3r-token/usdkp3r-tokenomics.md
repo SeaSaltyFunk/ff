@@ -1,3 +1,7 @@
+---
+description: Tokenomics of $KP3R explained
+---
+
 # $KP3R Tokenomics
 
 ## Monetary Policy

@@ -1,3 +1,7 @@
+---
+description: Frequently Asked Questions about the $KP3R token
+---
+
 # $KP3R FAQ
 
 ## What is the current supply?

@@ -1,3 +1,7 @@
+---
+description: Understanding the role of $KP3R token within Fixed Forex
+---
+
 # Understanding $KP3R
 
 The $KP3R token is a representation of the single liquidity ecosystem that includes Fixed Forex & [the Keep3r Network](https://keep3r.network/)
