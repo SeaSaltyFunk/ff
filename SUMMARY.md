@@ -21,7 +21,7 @@
 
 ## Swap Assets
 
-* [Fixed Forex's AMM](swap-assets/fixed-forexs-amm.md)
+* [Fixed Forex's AMM](swap-assets/fixed-forexs-ibamm.md)
 * [Using Curve](swap-assets/using-curve.md)
 * [Using Synthetix](swap-assets/using-synthetix.md)
 

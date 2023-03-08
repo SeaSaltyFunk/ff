@@ -13,7 +13,6 @@ It is possible for users to acquire ibXXX without borrowing, this is possible by
 Users can swap to any of the ibXXX asset types by providing any of the following approved Assets at [fixedforex.fi/swap](https://fixedforex.fi/swap);
 
 * $DAI
-* $sUSD
 
 This swap functionality is available for operation at all times
 
