@@ -56,7 +56,7 @@ Liquidity Providers of Fixed Forex Assets can deposit LP positions on Convex to 
 
 Iron Bank is a decentralized lending platform focused on capital efficiency allowing protocols and individuals to supply and borrow cryptocurrencies.\
 \
-Iron Bank partners with Fixed Forex & the Keep3r Network (see the [Security Section](../appendix/minting-and-issuance-security.md))
+Iron Bank partners with Fixed Forex & the Keep3r Network (see the [Security Section](../security-and-risk-appendix/minting-and-issuance-security.md))
 
 ### Yearn
 

@@ -17,11 +17,11 @@
 ## Minting & Issuance
 
 * [ibXXX Assets Explained](minting-and-issuance/ibxxx-assets-explained.md)
-* [How to Mint ibXXX Assets](minting/how-to-mint-ib-stables.md)
+* [How to Mint ibXXX Assets](minting-and-issuance/how-to-mint-ibxxx-assets.md)
 
 ## Swap Assets
 
-* [Fixed Forex's AMM](swap-assets/fixed-forexs-ibamm.md)
+* [Fixed Forex's AMM](swap-assets/fixed-forexs-amm.md)
 * [Using Curve](swap-assets/using-curve.md)
 * [Using Synthetix](swap-assets/using-synthetix.md)
 
@@ -53,18 +53,18 @@
 
 ## Troubleshooting
 
-* [Common Issues & Resolutions](troubleshooting/page-1.md)
+* [Common Issues & Resolutions](troubleshooting/common-issues-and-resolutions.md)
 
 ## Developers
 
-* [Key Contract Addresses](developers/contract-addresses.md)
+* [Key Contract Addresses](developers/key-contract-addresses.md)
 * [Related Contract Addresses](developers/related-contract-addresses.md)
 * [Deprecated Contracts](developers/deprecated-contracts.md)
 
 ## Security & Risk Appendix
 
-* [Audits](appendix/audits.md)
-* [Minting & Issuance Security](appendix/minting-and-issuance-security.md)
+* [Audits](security-and-risk-appendix/audits.md)
+* [Minting & Issuance Security](security-and-risk-appendix/minting-and-issuance-security.md)
 
 ## Links
 
